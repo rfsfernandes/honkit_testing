@@ -1,9 +1,8 @@
 //[billing](index.md)
 
 # billing
-asdas
+Vamos fazer um teste
 ## Packages
-asdsad
 | Name |
 |---|
 | [com.faa.billing.core.api](billing/com.faa.billing.core.api/index.md) |
